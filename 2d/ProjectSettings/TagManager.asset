@@ -41,3 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: platorm
+    uniqueID: 109467247
+    locked: 0
+  - name: enemie
+    uniqueID: 4223964555
+    locked: 0
